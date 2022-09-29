@@ -1,1 +1,6 @@
-console.log("HELLO NODE.JS!")
+const hello = () => {
+  console.log("Hello Node.js!");
+};
+
+hello();
+
